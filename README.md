@@ -29,4 +29,4 @@
 
 ⭐Em busca constante de novas oportunidades para aprender e inovar, explorando as possibilidades infinitas que a tecnologia oferece.
 
-![snake gif](https://github.com/LemuelGomes/LemuelGomes/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/LemuelGomes/LemuelGomes/blob/output/github-contribution-grid-snake-dark.gif)
