@@ -28,5 +28,3 @@
 ⭐Minha paixão pela tecnologia não é apenas uma curiosidade passageira; é uma jornada constante em busca de inovação e transformação, onde cada avanço me inspira a explorar novas possibilidades e a desafiar os limites do que é possível.
 
 ⭐Em busca constante de novas oportunidades para aprender e inovar, explorando as possibilidades infinitas que a tecnologia oferece.
-
-![Snake animation](https://github.com/LemuelGomes/LemuelGomes/blob/output/github-contribution-grid-snake.svg)
