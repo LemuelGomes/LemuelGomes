@@ -5,7 +5,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lemuel-gomes-a403b622b/)
 
 ![Lemuel GitHub stats](https://github-readme-stats.vercel.app/api?username=LemuelGomes&show_icons=true&theme=merko)
-
+    <img align="center" height="250" alt="coding-time" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/code.gif">
+    
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
