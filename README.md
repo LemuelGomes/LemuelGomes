@@ -2,11 +2,11 @@
 
 💻 Desenvolvedor focado em aplicações Web, Mobile e Desktop  
 📊 Análise e modelagem de dados com Power BI  
-🧠 Modelagem de dados e estruturação de sistemas  
-🤖 Interesses em automação e visão computacional 
+🧠 Estruturação de sistemas e organização de dados  
+🤖 Interesses em automação e visão computacional
 
 <div align="center">
-  <img height="250" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/code.gif"/>
+  <img height="220" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/code.gif"/>
 </div>
 
 ---
@@ -15,20 +15,18 @@
 
 <div style="display: inline_block"><br/>
 
-<img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img align="center" alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img align="center" alt="Excel VBA" src="https://img.shields.io/badge/Excel%20VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img align="center" alt="HTML" hspace="6" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="center" alt="CSS" hspace="6" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="center" alt="JavaScript" hspace="6" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img align="center" alt="TypeScript" hspace="6" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img align="center" alt="React" hspace="6" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img align="center" alt="C#" hspace="6" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img align="center" alt=".NET" hspace="6" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+<img align="center" alt="Python" hspace="6" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img align="center" alt="Power BI" hspace="6" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img align="center" alt="Excel VBA" hspace="6" src="https://img.shields.io/badge/Excel%20VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
 </div>
-
----
 
 ## 📌 Áreas de Atuação
 
@@ -38,8 +36,6 @@
 🔹 Dashboards e relatórios com Power BI  
 🔹 Automação com Excel e VBA  
 🔹 Estudos em Visão Computacional com Python  
-
----
 
 ## 🚀 Projetos em Destaque
 
@@ -67,15 +63,11 @@ Projeto voltado ao aprimoramento de lógica e modelagem de aplicação.
 Sistema desenvolvido como projeto final do curso técnico, com foco em implementação prática.  
 🔒 Repositório privado  
 
----
-
 ## 📈 Contribuições
 
 <div align="center">
   <img src="https://github.com/LemuelGomes/LemuelGomes/blob/output/snake.svg"/>
 </div>
-
----
 
 ## 🎯 Objetivo Profissional
 
