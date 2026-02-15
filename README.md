@@ -27,6 +27,6 @@
 
 ⭐Em busca constante de novas oportunidades para aprender e inovar, explorando as possibilidades infinitas que a tecnologia oferece.
 
-##  Contribuições
+##  📈 Contribuições
 
 ![Snake animation](https://github.com/LemuelGomes/LemuelGomes/blob/output/github-contribution-grid-snake-dark.svg)
