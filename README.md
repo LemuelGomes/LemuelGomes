@@ -29,4 +29,4 @@
 
 ##  📈 Contribuições
 
-![Snake animation](https://github.com/LemuelGomes/LemuelGomes/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/LemuelGomes/LemuelGomes/blob/output/snake.svg)
