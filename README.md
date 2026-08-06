@@ -1,8 +1,9 @@
 # 👋 Olá! Eu sou o Lemuel Gomes
 
-💻 Desenvolvedor focado em aplicações Web, Mobile e Desktop  
-📊 Análise e modelagem de dados com Power BI  
+💻 Desenvolvedor focado em aplicações **Web**, **Mobile** e **Desktop**  
+📊 Análise e modelagem de dados com **Power BI**  
 🧠 Estruturação de sistemas e organização de dados  
+📱 Experiência com **React Native / Expo**, **Next.js** e **APIs Node**  
 🤖 Interesses em automação e visão computacional
 
 <div align="center">
@@ -13,7 +14,7 @@
 
 ## 🚀 Tecnologias & Ferramentas
 
-### 🌐 Front-End
+### 🌐 Front-End / Mobile
 
 <div style="margin-top: 10px; margin-bottom: 15px;">
   <img align="center" hspace="6" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -22,6 +23,7 @@
   <img align="center" hspace="6" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img align="center" hspace="6" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img align="center" hspace="6" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img align="center" hspace="6" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
   <img align="center" hspace="6" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 </div>
 
@@ -76,44 +78,61 @@
 ## 📌 Áreas de Atuação
 
 🔹 Desenvolvimento Web (Front-end e Back-end)  
+🔹 Aplicações Mobile com React Native e Expo  
 🔹 Aplicações Desktop com C# e .NET  
 🔹 Modelagem e Análise de Dados  
 🔹 Dashboards e relatórios com Power BI  
 🔹 Automação com Excel e VBA  
-🔹 Estudos em Visão Computacional com Python  
 
 ## 🚀 Projetos em Destaque
 
+### ⚽ AppFut — Gestão de Peladas
+App mobile + API para organização de peladas (times, partidas e gestão). Stack: **TypeScript**, **Expo** e API Node.  
+🔗 https://github.com/LemuelGomes/AppFut
+
+---
+
+### 🛍️ Iko — E-commerce
+Loja online de roupas, maquiagem e cosméticos. Stack: **Next.js** e **TypeScript**.  
+🔗 https://github.com/LemuelGomes/Iko_Loja_de_Roupas
+
+---
+
+### 🧠 PsyControl — Gestão de Clínicas
+Software para gestão de clínicas de psicologia (agendamentos, pacientes e operações).  
+🔒 Repositório privado
+
+---
+
+### 📻 App Web Rádio
+Aplicativo mobile voltado para web rádio. Stack: **TypeScript** / **React Native**.  
+🔒 Repositório privado
+
+---
+
 ### 🖥️ Sistema de Gestão – Pet Shop (C#)
-Aplicação desktop desenvolvida para controle e gerenciamento de produtos e operações comerciais.  
-🔗 https://github.com/LemuelGomes/Projeto_Pet_shop  
+Aplicação desktop para controle e gerenciamento de produtos e operações comerciais.  
+🔗 https://github.com/LemuelGomes/Projeto_Pet_shop
 
 ---
 
 ### 🧩 Projetos Integradores Acadêmicos
 
-🔹 **NutriPlus**  
-Sistema desenvolvido como projeto integrador com foco em organização de software e estruturação de dados.  
-🔒 Repositório privado  
-
-🔹 **Projeto Trinity**  
-Projeto voltado ao desenvolvimento web com ênfase em organização visual e estrutura de aplicação.  
-🔒 Repositório privado  
-
-🔹 **Padaria Mana**  
-Projeto voltado ao aprimoramento de lógica e modelagem de aplicação.  
-🔒 Repositório privado  
-
-🔹 **Barbearia – Projeto Final**  
-Sistema desenvolvido como projeto final do curso técnico, com foco em implementação prática.  
-🔒 Repositório privado  
+🔹 **NutriPlus** — projeto integrador com foco em organização de software e dados  
+🔹 **Projeto Trinity** — desenvolvimento web com ênfase em estrutura e organização visual  
+🔹 **Padaria Mana** — aprimoramento de lógica e modelagem de aplicação  
+🔹 **Barbearia – Projeto Final** — sistema do curso técnico (Senac-SP)
 
 ## 📈 Contribuições
 
 <div align="center">
-  <img src="https://github.com/LemuelGomes/LemuelGomes/blob/output/snake.svg"/>
+  <img alt="Snake animation das contribuições" src="https://raw.githubusercontent.com/LemuelGomes/LemuelGomes/output/snake.svg"/>
 </div>
 
 ## 🎯 Objetivo Profissional
 
-Construir soluções eficientes que integrem desenvolvimento de software, modelagem de dados e análise estratégica, sempre buscando evolução técnica e aplicações práticas.
+Construir soluções práticas que integrem desenvolvimento de software, dados e experiência do usuário — do mobile ao desktop — com foco em evolução técnica contínua.
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lemuel-gomes-a403b622b/)
