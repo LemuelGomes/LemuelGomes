@@ -11,11 +11,11 @@ jobs:
 
     steps:
       - name: Generate Snake
-        uses: Platane/snk@v3
+        uses: ArthurLobopro/snk/svg-only@v0
         with:
           github_user_name: LemuelGomes
           outputs: |
-            dist/snake.svg?color_snake=#ff0000&palette=github-dark
+            dist/snake.svg?color_snake=#ff0000&palette=github-dark&hide_stack=true
 
       - name: Push Snake
         uses: crazy-max/ghaction-github-pages@v3
