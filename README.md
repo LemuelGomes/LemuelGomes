@@ -1,5 +1,9 @@
 # 👋 Olá! Eu sou o Lemuel Gomes
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lemuel-gomes-a403b622b/)
+
 💻 Desenvolvedor focado em aplicações **Web**, **Mobile** e **Desktop**  
 📊 Análise e modelagem de dados com **Power BI**  
 🧠 Estruturação de sistemas e organização de dados  
@@ -126,13 +130,9 @@ Aplicação desktop para controle e gerenciamento de produtos e operações come
 ## 📈 Contribuições
 
 <div align="center">
-  <img alt="Snake animation das contribuições" src="https://raw.githubusercontent.com/LemuelGomes/LemuelGomes/output/snake.svg"/>
+  <img alt="Snake animation das contribuições" src="https://raw.githubusercontent.com/LemuelGomes/LemuelGomes/output/github-contribution-grid-snake.svg"/>
 </div>
 
 ## 🎯 Objetivo Profissional
 
 Construir soluções práticas que integrem desenvolvimento de software, dados e experiência do usuário — do mobile ao desktop — com foco em evolução técnica contínua.
-
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lemuel-gomes-a403b622b/)
